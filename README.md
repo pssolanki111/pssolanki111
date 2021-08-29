@@ -3,7 +3,7 @@
 <h3 align="left">I am a <a href="https://www.fiverr.com/pssolanki111"> Freelance Software Developer at Fiverr</a> </h3>
 
 <a href="#pssolanki-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=pssolanki111&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="P S Solanki" align="right" />
+  <img src="https://github-readme-stats-pssolanki111.vercel.app/api?username=pssolanki111&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="P S Solanki" align="right" />
 </a>
 
 -  :computer: I Love Computers and Programming
