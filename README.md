@@ -146,6 +146,12 @@ and hence contained within **private repositories** on **Github** and **Bitbucke
       </a>
       <br>AlgoTrading
     </td>
+    <td align="center" width="96"> 
+      <a href="#pssolanki111-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
   <tr>
     
 </tr>
