@@ -8,10 +8,10 @@
 
 -  :computer: I Love Computers and Programming
 -  :bulb: I am a **competitive programmer**, and a **freelance developer**.
--  :check: More than **30** (and counting) successful projects so far.
--  :book: I admire **open source communities** and always try to contribute. 
+-  :heavy_check_mark: More than **30** (and counting) successful projects so far.
+-  :sunrise: I admire **open source communities** and always try to contribute. 
 -  :code: Significant contributions to <a href="https://stackoverflow.com/users/10145519/p-s-solanki?tab=topactivity"> Stack Overflow </a>
--  :speak: Catch me up on **Discord** `@pssolanki#4011`
+-  :speech_balloon: Catch me up on **Discord** `@pssolanki#4011` or send me an <a href="mailto:pssolanki111pss@gmail.com"> Email </a>
 
 Please note that **most** of my significant work is **not open sourced** due to it being client proprietary,<br>
 and hence contained within **private repositories** on **Github** and **Bitbucket**.
