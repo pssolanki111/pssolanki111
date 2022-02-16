@@ -13,7 +13,7 @@
 -  :moon: Many Significant Q/A and **triage queue** contributions to <a href="https://stackoverflow.com/users/10145519/p-s-solanki?tab=topactivity"> Stack Overflow </a>
 -  :speech_balloon: Catch me up on **Discord** `@pssolanki#4011` or send me an <a href="mailto:pssolanki111pss@gmail.com"> Email </a>
 
-Please note that **most** of my significant work (over **15** repositories) is **not open sourced** due to it being client proprietary,<br>
+Please note that **most** of my significant work (in over **30** repositories) is **not open sourced** due to it being client proprietary,<br>
 and hence contained within **private repositories** on **Github** and **Bitbucket**.
 
 
