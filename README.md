@@ -1,6 +1,6 @@
 
 <h1 align="left" id="pssolanki111-title">Hello there! I'm Pankaj Singh Solanki </h1>
-<h3 align="left">I am a <a href="https://www.fiverr.com/pssolanki111"> Freelance Software Developer at Fiverr</a> </h3>
+<h3 align="left">I am a Co-founder at <a href="https://reroutes.io/">Reroutes.io</a> and a <a href="https://www.fiverr.com/pssolanki111">Freelance Developer</a> </h3>
 
 <a href="#pssolanki-title">
   <img src="https://github-readme-stats-pssolanki111.vercel.app/api?username=pssolanki111&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="P S Solanki" align="right" />
