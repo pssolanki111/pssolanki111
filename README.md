@@ -1,6 +1,6 @@
 
 <h1 align="left" id="pssolanki111-title">Hello there! I'm Pankaj Singh Solanki </h1>
-<h3 align="left">I am a Co-founder at <a href="https://reroutes.io/" target="_blank">Reroutes.io</a> and a <a href="https://www.fiverr.com/pssolanki111" target="_blank">Freelance Developer</a> </h3>
+<h3 align="left">I am a Co-founder at <a href="https://reroutes.io/" target="_blank">Reroutes.io</a> and a Software & DevOps Engineer
 
 <a href="#pssolanki-title">
   <img src="https://github-readme-stats-pssolanki111.vercel.app/api?username=pssolanki111&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="P S Solanki" align="right" />
@@ -8,20 +8,18 @@
 
 -  :computer: I'm an avid computer geek and passionate about programming.
 -  :bulb: I am a **competitive programmer** and I like to take on interesting challenges
--  :heavy_check_mark: More than **35** (and counting) successful projects
 -  :sunrise: I admire **open source communities** and always try to contribute. I'm the author of library <a href="https://github.com/pssolanki111/polygon" target="_blank">polygon</a>
 -  :moon: Significant Q/A and **triage queue** contributions to <a href="https://stackoverflow.com/users/10145519/p-s-solanki?tab=topactivity" target="_blank"> Stack Overflow </a>
 -  :speech_balloon: Catch me up on **Discord** `@pssolanki#4011` or send me an <a href="mailto:pssolanki@pssolanki.com"> Email </a>
 
-Please note that **most** of my significant work (in **30+** repositories) is **not open sourced** due to it being client proprietary,<br>
-and hence contained within **private repositories**
+Please note that **most** of my significant work (in **30+** repositories) is **not open sourced** due to it being client proprietary.
 
 
 <br>
 
-<h2 align="left" id="pssolanki111-tech">Favorite Tech</h2>
+<h2 align="left" id="pssolanki111-tech">Favorite Tech (not fully up to date :D)</h2>
 
-> Tools, languages, and environments I enjoy working with (these need an update :D)
+> Tools, languages, and environments I enjoy working with
 
 
 <table align="center">
