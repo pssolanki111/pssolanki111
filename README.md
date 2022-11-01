@@ -1,6 +1,6 @@
 
 <h1 align="left" id="pssolanki111-title">Hello there! I'm Pankaj Singh Solanki </h1>
-<h3 align="left">I am a Co-founder at <a href="https://reroutes.io/" target="_blank">Reroutes.io</a> and a Software & DevOps Engineer
+<h3 align="left">I am a Senior Backend Engineer at <a href="https://getcerta.com" target="_blank">Certa</a>, a Co-founder at <a href="https://reroutes.io/" target="_blank">Reroutes.io</a> and a DevOps Engineer <br><br>
 
 <a href="#pssolanki-title">
   <img src="https://github-readme-stats-pssolanki111.vercel.app/api?username=pssolanki111&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="P S Solanki" align="right" />
